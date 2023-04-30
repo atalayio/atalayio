@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atalay</h1>
-<h3 align="center">Junior Full Stack React Native</h3>
+<h3 align="center">Junior Full Stack React Native Developer</h3>
 
 -  I’m currently working on [React Native Basic Template](https://github.com/atalayio/React-Native-Basic-Template)
 

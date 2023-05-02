@@ -7,7 +7,7 @@
 
 -  Ask me about **React, JavaScript, NodeJS and little bit C#**
 
--  How to reach me **eminatalay@outlook.com**
+-  How to reach me **me@atalay.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

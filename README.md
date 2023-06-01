@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atalay</h1>
+<h1 align="center">I'm Atalay</h1>
 <h3 align="center">Junior Full Stack React Native Developer</h3>
 
 -  I’m currently working on [React Native](https://github.com/facebook/react-native)

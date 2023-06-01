@@ -3,7 +3,7 @@
 
 -  I’m currently working on [React Native](https://github.com/facebook/react-native)
 
--  I’m currently learning **MERN (MongoDB, Express, React, Node)**
+-  I’m currently learning **MERN (MongoDB, Express, React Native, Node)**
 
 -  Ask me about **React, JavaScript, NodeJS and little bit C#**
 

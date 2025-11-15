@@ -82,7 +82,7 @@ Motto: *Code beautifully, deploy boldly.*
 
 ## Quote to Live By
 
-> “Build something people will feel.”  
-> — E.A.
+> “Don't deploy on fridays”  
+> — Atalay
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
